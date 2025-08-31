@@ -28,7 +28,7 @@ Shuo Cai (蔡硕) is a Master of Philosophy student in the Department of Computi
 
 InfiAlign: A Scalable and Sample-Efficient Framework for Aligning LLMs to Enhance Reasoning Capabilities
 
-**Shuo Cai**, Sihao Lu, Qihang Zhou, Kejing Yang, Zhijie Sang, Congkai Xie, Hongxia Yang
+**Shuo Cai**, Su Lu, Qi Zhou, Kejing Yang, Zhijie Sang, Congkai Xie, Hongxia Yang
 
 [**PDF**](https://arxiv.org/pdf/2508.05496) 
 
@@ -40,9 +40,9 @@ InfiAlign: A Scalable and Sample-Efficient Framework for Aligning LLMs to Enhanc
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">Arxiv 2025</div><img src='images/Infir.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
-Infir: Crafting effective small language models and multimodal small language models in reasoning
+InfiR : Crafting Effective Small Language Models and Multimodal Small Language Models in Reasoning
 
-Congkai Xie, **Shuo Cai**, Wenqi Wang, Peiyi Li, Zhijie Sang, Kejing Yang, Yining Di, Zeyu Liu, Guohao Zhu, Zihan Liu, Hongxia Yang
+Congkai Xie, **Shuo Cai**, Wenjun Wang, Pengxiang Li, Zhijie Sang, Kejing Yang, Yiming Zhang, Zhen Li, Guanghao Zhu, Zeyu Liu, Yang Yu, Yuhang Liu, Su Lu, Baoyi He, Qi Zhou, Xiaotian Han, Jianbo Yuan, Shengyu Zhang, Fei Wu, Hongxia Yang
 
 [**PDF**](https://arxiv.org/pdf/2502.11573) 
 
