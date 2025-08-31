@@ -52,7 +52,7 @@ Congkai Xie, **Shuo Cai**, Wenjun Wang, Pengxiang Li, Zhijie Sang, Kejing Yang, 
 </div>
 
 # 📖 Educations
-- *2025.09 - present*, MPhil, Department of Computing, The Hong Kong Polytechnic University.
+- *2025.09 - present*, Master of Philosophy, Department of Computing, The Hong Kong Polytechnic University.
 - *2021.09 - 2025.06*, Undergraduate, Intelligent Science and Technology, School of Automation Science and Engineering, South China University of Technology.
 
 # 💻 Internships
